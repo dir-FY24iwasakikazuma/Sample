@@ -7,8 +7,9 @@ public class Cast {
         int b = 2;
         
         System.out.println( a / b );
-        System.out.println((double)a / b );
-        System.out.println((double)a / b );
+        System.out.println( (double)a / b );
+        System.out.println( (double)(a / b) );
+        
         
         
         
