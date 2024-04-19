@@ -29,7 +29,7 @@ public class ExceptionExample2 {
             
             
          
-       }
+       
 public static int divide(int a, int b) throws ArithmeticException {
     if (b ==0) {
         //0での除算を求めてみた場合,
